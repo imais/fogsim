@@ -1,0 +1,4 @@
+id	type	name	county	state	lat	lng	population	land_area	water_area
+3532	City	Albany	Albany County	NY	42.65258	-73.75623	98251	55395227	1418568
+3909	Town	Colonie	Albany County	NY	42.74333	-73.7856	83508	144904720	4906368
+5418	City	Troy	Rensselaer County	NY	42.72841	-73.69179	49565	26825727	1811726
